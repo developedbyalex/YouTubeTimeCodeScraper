@@ -12,7 +12,7 @@ This Python program allows you to retrieve comments from a YouTube video and dis
 
 1. Clone the repository:
 
-`git clone https://github.com/your-username/youtube-time-code-scraper.git`
+`git clone https://github.com/developedbyalex/youtube-time-code-scraper.git`
 
 
 2. Install the required dependencies:
